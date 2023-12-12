@@ -2,7 +2,7 @@
 
 # Telecomicaciones
 
-Buenas, soy Ismael Alejandro Flores y este es mi proyecto numero 2:
+Buenas, soy Ismael Alejandro Flores y este es mi proyecto de telecomicaciones:
 
 ## Introduccion:
   El siguiente proyecto realizar un analisis de datos basandome en un conjunto de archivos de telecomunicaciones de enacom, realizando primero el analisis exploratorio de los datos y luego realizando una serie de visualizaciones en power bi.
