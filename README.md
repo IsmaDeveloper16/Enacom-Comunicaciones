@@ -1,4 +1,4 @@
-![logo de enacom](https://smartcityexposantiagodelestero.com/wp-content/uploads/2022/10/logo-enacom.png)
+![Dashboard](https://github.com/IsmaDeveloper16/Enacom-Comunicaciones/blob/main/dashboard%201.jpg)
 
 # Comicaciones
 
