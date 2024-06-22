@@ -27,5 +27,3 @@ Buenas, soy Ismael Alejandro Flores y este es mi proyecto de Comicaciones:
 - **Paso 2 - EDA y retoques:** En este apartado lo que hice fue buscar valores faltantes, atipicos y guarde los cambios. Tambien cree un archivo para dar unos retoques a un archivo csv que tenia una serie de errores.
 
 - **Paso 3 - Visualizaciones y Storytelling:** Aqui comence a realizar las visualizaciones y el storytelling.
-
-![fin](https://i.ytimg.com/vi/iclPAx8jMOA/maxresdefault.jpg)
