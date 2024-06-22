@@ -1,4 +1,3 @@
-![Dashboard](https://github.com/IsmaDeveloper16/Enacom-Comunicaciones/blob/main/dashboard%201.jpg)
 
 # Comicaciones
 
