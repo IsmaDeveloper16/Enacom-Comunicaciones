@@ -7,6 +7,7 @@ Buenas, soy Ismael Alejandro Flores y este es mi proyecto de Comicaciones:
 ## Introduccion:
   El siguiente proyecto realizar un analisis de datos basandome en un conjunto de archivos de telecomunicaciones de enacom, realizando primero el analisis exploratorio de los datos y luego realizando una serie de visualizaciones en power bi.
 
+![Dashboard](https://github.com/IsmaDeveloper16/Enacom-Comunicaciones/blob/main/dashboard%201.jpg)
 
 ## Herramientas utilizadas
 ### Acontinuacion estare haciendo un listado de las Herramientas que estuve utilizando para realizar este proyecto:
