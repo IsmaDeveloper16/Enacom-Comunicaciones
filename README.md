@@ -1,8 +1,8 @@
 ![logo de enacom](https://smartcityexposantiagodelestero.com/wp-content/uploads/2022/10/logo-enacom.png)
 
-# Telecomicaciones
+# Comicaciones
 
-Buenas, soy Ismael Alejandro Flores y este es mi proyecto de telecomicaciones:
+Buenas, soy Ismael Alejandro Flores y este es mi proyecto de Comicaciones:
 
 ## Introduccion:
   El siguiente proyecto realizar un analisis de datos basandome en un conjunto de archivos de telecomunicaciones de enacom, realizando primero el analisis exploratorio de los datos y luego realizando una serie de visualizaciones en power bi.
