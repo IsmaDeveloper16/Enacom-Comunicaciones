@@ -1,12 +1,10 @@
-
+![Dashboard](https://github.com/IsmaDeveloper16/Enacom-Comunicaciones/blob/main/logo.jpg)
 # Comicaciones
 
 Buenas, soy Ismael Alejandro Flores y este es mi proyecto de Comicaciones:
 
 ## Introduccion:
   El siguiente proyecto realizar un analisis de datos basandome en un conjunto de archivos de telecomunicaciones de enacom, realizando primero el analisis exploratorio de los datos y luego realizando una serie de visualizaciones en power bi.
-
-![Dashboard]()
 
 ## Herramientas utilizadas
 ### Acontinuacion estare haciendo un listado de las Herramientas que estuve utilizando para realizar este proyecto:
@@ -19,11 +17,13 @@ Buenas, soy Ismael Alejandro Flores y este es mi proyecto de Comicaciones:
 - **PowerBI**
 - **Github**
 
-## Pasos realizados:
-### Estos son los pasos que estuve realizando en orden: 
+### Este reporte tiene como finalidad proporcionar una visión integral y analítica de los datos relevantes de la empresa, facilitando la toma de decisiones estratégicas.
 
-- **Paso 1 - La problematica y datos:** Luego de entender lo solicitado, busque la pagina que nos brindaron para exportar los archivos en un formato csv, luego los visualice y comence con la seleccion de datasets y columnas que iba a utilizar en el analisis.
+## Mis objetivos:
 
-- **Paso 2 - EDA y retoques:** En este apartado lo que hice fue buscar valores faltantes, atipicos y guarde los cambios. Tambien cree un archivo para dar unos retoques a un archivo csv que tenia una serie de errores.
+- **Análisis de datos:** Recopilar, limpiar y procesar los datos de ENACOM para garantizar su precisión y relevancia.
+- **Visualización de datos:** Crear visualizaciones interactivas y dinámicas en PowerBI que permitan a los usuarios explorar los datos de manera intuitiva.
+- **Capacitación y desarrollo:** Desarrollar habilidades avanzadas en PowerBI y Python, y aplicar buenas prácticas en la gestión y análisis de datos.
 
-- **Paso 3 - Visualizaciones y Storytelling:** Aqui comence a realizar las visualizaciones y el storytelling.
+### Con este proyecto, se busca no solo proporcionar información valiosa a ENACOM, sino también fortalecer mi expertise en el ámbito de la ciencia de datos y la analítica empresarial.
+![Dashboard](https://github.com/IsmaDeveloper16/Enacom-Comunicaciones/blob/main/descarga.png)
